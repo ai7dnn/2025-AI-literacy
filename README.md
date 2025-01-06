@@ -6,9 +6,9 @@
 - git clone 명령 
   - `git clone https://github.com/ai7dnn/2024-AI.git`
 
-## chatGPT 검색공유
-- https://chatgpt.com/share/e/675500a0-cd18-8008-a731-4d4cb0f82cb6
-
+## 제프리힌튼과 노벨상 
+- https://www.youtube.com/watch?v=y2fn-srkYos
+  
 ## 머신러닝과 딥러닝, 인공지능 역사
 - https://www.youtube.com/watch?v=NbLVcMmxSw0
 - https://www.youtube.com/watch?v=BUTP-YsD3nM
