@@ -59,7 +59,7 @@
     1. https://www.youtube.com/watch?v=OBSIOlZ1yM8
 
 ## 인공지능 관련 자료  
-- 추천 인공지능 교재 https://sites.google.com/comedu.dnue.ac.kr/aiforkids/%EC%B6%94%EC%B2%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B5%90%EC%9E%AC
+- 소프트웨어야놀자! 인공지능 교재 https://www.playsw.or.kr/artificial/textbook/ai_data_web_textbook_ai
 - Ebs 인공지능과 수학 교재 자료 pdf https://www.ebssw.kr/info/intrcn/infoTchmtrHeaderView.do?tabType=AI
 - 비상교육 인공지능 기초 https://dn.vivasam.com/VS/EBOOK/%EA%B3%A0%EB%93%B1%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B8%B0%EC%B4%88PC/index.html
 - 길벗 인공지능 기초 https://textbook.gilbut.co.kr/book/index.html
